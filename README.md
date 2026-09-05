@@ -1,4 +1,1 @@
-Адурка-сити
-СБОРКА БЭКДУРНУТА ВЕКАДОМ (v3kad)
-разработчик сборки - sadsalat (оригинальный github - https://github.com/uzelezz123/Z-City)
-до сделал другую сборку (изменил под себя) - Kachez
+Z-DURKA сборка by v3kad
